@@ -1,0 +1,277 @@
+[2024-12-22 11:45:06][notice]Start restoring themes.
+[2024-12-22 11:45:06][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip
+[2024-12-22 11:45:06][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip succeeded.
+[2024-12-22 11:45:06][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_themes.zip index:0
+[2024-12-22 11:45:06][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_themes.zip index:0 finished.
+[2024-12-22 11:45:06][notice]End restore themes.
+[2024-12-22 11:45:08][notice]Start restoring themes.
+[2024-12-22 11:45:08][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_themes.zip index:1000
+[2024-12-22 11:45:08][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_themes.zip index:1000 finished.
+[2024-12-22 11:45:08][notice]End restore themes.
+[2024-12-22 11:45:09][notice]Start restoring plugin.
+[2024-12-22 11:45:09][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip
+[2024-12-22 11:45:09][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip succeeded.
+[2024-12-22 11:45:09][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_plugin.zip index:0
+[2024-12-22 11:45:10][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_plugin.zip index:0 finished.
+[2024-12-22 11:45:10][notice]End restore plugin.
+[2024-12-22 11:45:11][notice]Start restoring plugin.
+[2024-12-22 11:45:11][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_plugin.zip index:1000
+[2024-12-22 11:45:11][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_plugin.zip index:1000 finished.
+[2024-12-22 11:45:11][notice]End restore plugin.
+[2024-12-22 11:45:13][notice]Start restoring wp-content.
+[2024-12-22 11:45:13][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip
+[2024-12-22 11:45:13][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip succeeded.
+[2024-12-22 11:45:13][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_content.zip index:0
+[2024-12-22 11:45:13][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_content.zip index:0 finished.
+[2024-12-22 11:45:13][notice]End restore wp-content.
+[2024-12-22 11:45:14][notice]Start restoring upload.
+[2024-12-22 11:45:14][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip
+[2024-12-22 11:45:15][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip succeeded.
+[2024-12-22 11:45:15][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_uploads.zip index:0
+[2024-12-22 11:45:15][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_uploads.zip index:0 finished.
+[2024-12-22 11:45:15][notice]End restore upload.
+[2024-12-22 11:45:16][notice]Start restoring wp-core.
+[2024-12-22 11:45:16][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip
+[2024-12-22 11:45:16][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip succeeded.
+[2024-12-22 11:45:16][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_core.zip
+[2024-12-22 11:45:17][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_core.zip succeeded.
+[2024-12-22 11:45:17][notice]End restore wp-core.
+[2024-12-22 11:45:18][notice]Start restoring databases.
+[2024-12-22 11:45:18][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip
+[2024-12-22 11:45:18][notice]Extracting file:acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_all.zip finished.
+[2024-12-22 11:45:18][notice]Extracting file:/mnt/volume_lon1_01/html/fort/wp-content/wpvividbackups/acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_db.zip
+[2024-12-22 11:45:18][notice]Extracting file:/mnt/volume_lon1_01/html/fort/wp-content/wpvividbackups/acclaimed-allaire-cb.zipwp.site_wpvivid-1e35fea90954c_2024-12-19-22-10_backup_db.zip finished.
+[2024-12-22 11:45:18][notice]End restore databases.
+[2024-12-22 11:45:21][notice]Start restoring databases.
+[2024-12-22 11:45:21][notice]Start restoring sql file offset:0
+[2024-12-22 11:45:21][notice]The test to drop table succeeds.
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_actionscheduler_claims
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_actionscheduler_claims
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_actionscheduler_groups
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_actionscheduler_groups
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_e_events
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_e_events
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_links
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_links
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_term_relationships
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_term_relationships
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_actionscheduler_logs
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_actionscheduler_logs
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_commentmeta
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_commentmeta
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_term_taxonomy
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_term_taxonomy
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_termmeta
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_termmeta
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_terms
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_terms
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_usermeta
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_usermeta
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_srfm_entries
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_srfm_entries
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_users
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_users
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_surecart_incoming_webhooks
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_surecart_incoming_webhooks
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_surecart_integrations
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_surecart_integrations
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_comments
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_comments
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_actionscheduler_actions
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_actionscheduler_actions
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_postmeta
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_postmeta
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_posts
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_posts
+[2024-12-22 11:45:21][notice]Drop table if exist tmp058f52_options
+[2024-12-22 11:45:21][notice]Creating table tmp058f52_options
+[2024-12-22 11:45:22][notice]Reading sql file completed offset:5291563
+[2024-12-22 11:45:22][notice]End restore databases.
+[2024-12-22 11:45:23][notice]Start restoring databases.
+[2024-12-22 11:45:23][notice]Start restoring sql file offset:5291563
+[2024-12-22 11:45:23][notice]The test to drop table succeeds.
+[2024-12-22 11:45:23][notice]Start replacing table tmp058f52_actionscheduler_claims offset:0
+[2024-12-22 11:45:23][notice]
+[2024-12-22 11:45:23][notice]Counting of rows in tmp058f52_actionscheduler_claims: 0
+[2024-12-22 11:45:23][notice]End restore databases.
+[2024-12-22 11:45:25][notice]Start restoring databases.
+[2024-12-22 11:45:25][notice]Start replacing table tmp058f52_actionscheduler_groups offset:0
+[2024-12-22 11:45:25][notice]
+[2024-12-22 11:45:25][notice]Counting of rows in tmp058f52_actionscheduler_groups: 2
+[2024-12-22 11:45:25][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:25][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:25][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_actionscheduler_groups Replaced row: 0\/2;"}
+[2024-12-22 11:45:25][notice]End restore databases.
+[2024-12-22 11:45:26][notice]Start restoring databases.
+[2024-12-22 11:45:26][notice]Start replacing table tmp058f52_e_events offset:0
+[2024-12-22 11:45:26][notice]
+[2024-12-22 11:45:26][notice]Counting of rows in tmp058f52_e_events: 0
+[2024-12-22 11:45:26][notice]End restore databases.
+[2024-12-22 11:45:28][notice]Start restoring databases.
+[2024-12-22 11:45:28][notice]Start replacing table tmp058f52_links offset:0
+[2024-12-22 11:45:28][notice]
+[2024-12-22 11:45:28][notice]Counting of rows in tmp058f52_links: 0
+[2024-12-22 11:45:28][notice]End restore databases.
+[2024-12-22 11:45:29][notice]Start restoring databases.
+[2024-12-22 11:45:29][notice]Start replacing table tmp058f52_term_relationships offset:0
+[2024-12-22 11:45:29][notice]
+[2024-12-22 11:45:29][Warning]Skipping table tmp058f52_term_relationships
+[2024-12-22 11:45:29][notice]End restore databases.
+[2024-12-22 11:45:31][notice]Start restoring databases.
+[2024-12-22 11:45:31][notice]Start replacing table tmp058f52_actionscheduler_logs offset:0
+[2024-12-22 11:45:31][notice]
+[2024-12-22 11:45:31][notice]Counting of rows in tmp058f52_actionscheduler_logs: 22
+[2024-12-22 11:45:31][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:31][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:31][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_actionscheduler_logs Replaced row: 0\/22;"}
+[2024-12-22 11:45:31][notice]End restore databases.
+[2024-12-22 11:45:32][notice]Start restoring databases.
+[2024-12-22 11:45:32][notice]Start replacing table tmp058f52_commentmeta offset:0
+[2024-12-22 11:45:32][notice]
+[2024-12-22 11:45:32][notice]Counting of rows in tmp058f52_commentmeta: 0
+[2024-12-22 11:45:32][notice]End restore databases.
+[2024-12-22 11:45:34][notice]Start restoring databases.
+[2024-12-22 11:45:34][notice]Start replacing table tmp058f52_term_taxonomy offset:0
+[2024-12-22 11:45:34][notice]
+[2024-12-22 11:45:34][notice]Counting of rows in tmp058f52_term_taxonomy: 6
+[2024-12-22 11:45:34][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:34][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:34][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_term_taxonomy Replaced row: 0\/6;"}
+[2024-12-22 11:45:34][notice]End restore databases.
+[2024-12-22 11:45:35][notice]Start restoring databases.
+[2024-12-22 11:45:35][notice]Start replacing table tmp058f52_termmeta offset:0
+[2024-12-22 11:45:35][notice]
+[2024-12-22 11:45:35][notice]Counting of rows in tmp058f52_termmeta: 0
+[2024-12-22 11:45:35][notice]End restore databases.
+[2024-12-22 11:45:37][notice]Start restoring databases.
+[2024-12-22 11:45:37][notice]Start replacing table tmp058f52_terms offset:0
+[2024-12-22 11:45:37][notice]
+[2024-12-22 11:45:37][notice]Counting of rows in tmp058f52_terms: 6
+[2024-12-22 11:45:37][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:37][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:37][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_terms Replaced row: 0\/6;"}
+[2024-12-22 11:45:37][notice]End restore databases.
+[2024-12-22 11:45:38][notice]Start restoring databases.
+[2024-12-22 11:45:38][notice]Start replacing table tmp058f52_usermeta offset:0
+[2024-12-22 11:45:38][notice]
+[2024-12-22 11:45:38][notice]Counting of rows in tmp058f52_usermeta: 23
+[2024-12-22 11:45:38][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:38][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:38][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_usermeta Replaced row: 0\/23;"}
+[2024-12-22 11:45:38][notice]End restore databases.
+[2024-12-22 11:45:40][notice]Start restoring databases.
+[2024-12-22 11:45:40][notice]Start replacing table tmp058f52_srfm_entries offset:0
+[2024-12-22 11:45:40][notice]
+[2024-12-22 11:45:40][notice]Counting of rows in tmp058f52_srfm_entries: 1
+[2024-12-22 11:45:40][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:40][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:40][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_srfm_entries Replaced row: 0\/1;"}
+[2024-12-22 11:45:40][notice]End restore databases.
+[2024-12-22 11:45:42][notice]Start restoring databases.
+[2024-12-22 11:45:42][notice]Start replacing table tmp058f52_users offset:0
+[2024-12-22 11:45:42][notice]
+[2024-12-22 11:45:42][notice]Counting of rows in tmp058f52_users: 1
+[2024-12-22 11:45:42][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:42][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:42][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_users Replaced row: 0\/1;"}
+[2024-12-22 11:45:42][notice]End restore databases.
+[2024-12-22 11:45:43][notice]Start restoring databases.
+[2024-12-22 11:45:43][notice]Start replacing table tmp058f52_surecart_incoming_webhooks offset:0
+[2024-12-22 11:45:43][notice]
+[2024-12-22 11:45:43][notice]Counting of rows in tmp058f52_surecart_incoming_webhooks: 4
+[2024-12-22 11:45:43][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:43][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:43][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_surecart_incoming_webhooks Replaced row: 0\/4;"}
+[2024-12-22 11:45:43][notice]End restore databases.
+[2024-12-22 11:45:45][notice]Start restoring databases.
+[2024-12-22 11:45:45][notice]Start replacing table tmp058f52_surecart_integrations offset:0
+[2024-12-22 11:45:45][notice]
+[2024-12-22 11:45:45][notice]Counting of rows in tmp058f52_surecart_integrations: 0
+[2024-12-22 11:45:45][notice]End restore databases.
+[2024-12-22 11:45:46][notice]Start restoring databases.
+[2024-12-22 11:45:46][notice]Start replacing table tmp058f52_comments offset:0
+[2024-12-22 11:45:46][notice]
+[2024-12-22 11:45:46][notice]Counting of rows in tmp058f52_comments: 0
+[2024-12-22 11:45:46][notice]End restore databases.
+[2024-12-22 11:45:48][notice]Start restoring databases.
+[2024-12-22 11:45:48][notice]Start replacing table tmp058f52_actionscheduler_actions offset:0
+[2024-12-22 11:45:48][notice]
+[2024-12-22 11:45:48][notice]Counting of rows in tmp058f52_actionscheduler_actions: 8
+[2024-12-22 11:45:48][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:48][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:48][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_actionscheduler_actions Replaced row: 0\/8;"}
+[2024-12-22 11:45:48][notice]End restore databases.
+[2024-12-22 11:45:49][notice]Start restoring databases.
+[2024-12-22 11:45:49][notice]Start replacing table tmp058f52_postmeta offset:0
+[2024-12-22 11:45:49][notice]
+[2024-12-22 11:45:49][notice]Counting of rows in tmp058f52_postmeta: 404
+[2024-12-22 11:45:49][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:49][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:49][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_postmeta Replaced row: 0\/404;"}
+[2024-12-22 11:45:49][notice]End restore databases.
+[2024-12-22 11:45:51][notice]Start restoring databases.
+[2024-12-22 11:45:51][notice]Start replacing table tmp058f52_posts offset:0
+[2024-12-22 11:45:51][notice]
+[2024-12-22 11:45:51][notice]Counting of rows in tmp058f52_posts: 86
+[2024-12-22 11:45:51][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:51][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:51][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_posts Replaced row: 0\/86;"}
+[2024-12-22 11:45:51][notice]End restore databases.
+[2024-12-22 11:45:53][notice]Start restoring databases.
+[2024-12-22 11:45:53][notice]Start replacing table tmp058f52_options offset:0
+[2024-12-22 11:45:53][notice]
+[2024-12-22 11:45:53][notice]Counting of rows in tmp058f52_options: 309
+[2024-12-22 11:45:53][notice]Replacing the row in 0 line.
+[2024-12-22 11:45:53][notice]Replacing row completed. Current row:5000
+[2024-12-22 11:45:53][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp058f52_options Replaced row: 0\/309;"}
+[2024-12-22 11:45:53][notice]
+[2024-12-22 11:45:53][notice]UPDATE tmp058f52_options SET option_value="https://forthouse-reserve.com" WHERE option_name="siteurl";
+[2024-12-22 11:45:53][notice]update query len:102
+[2024-12-22 11:45:53][notice]UPDATE tmp058f52_options SET option_value="https://forthouse-reserve.com" WHERE option_name="home";
+[2024-12-22 11:45:53][notice]update query len:99
+[2024-12-22 11:45:53][notice]Restore db success
+[2024-12-22 11:45:53][notice]End restore databases.
+[2024-12-22 11:45:54][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_actionscheduler_actions
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_actionscheduler_claims
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_actionscheduler_groups
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_actionscheduler_logs
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_comments
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_e_events
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_links
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_options
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_postmeta
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_posts
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_srfm_entries
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_surecart_incoming_webhooks
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_surecart_integrations
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_termmeta
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_terms
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_usermeta
+[2024-12-22 11:45:54][notice]DROP TABLE IF EXISTS wp_users
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_actionscheduler_actions TO wp_actionscheduler_actions
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_actionscheduler_claims TO wp_actionscheduler_claims
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_actionscheduler_groups TO wp_actionscheduler_groups
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_actionscheduler_logs TO wp_actionscheduler_logs
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_commentmeta TO wp_commentmeta
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_comments TO wp_comments
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_e_events TO wp_e_events
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_links TO wp_links
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_options TO wp_options
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_postmeta TO wp_postmeta
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_posts TO wp_posts
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_srfm_entries TO wp_srfm_entries
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_surecart_incoming_webhooks TO wp_surecart_incoming_webhooks
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_surecart_integrations TO wp_surecart_integrations
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_term_relationships TO wp_term_relationships
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_term_taxonomy TO wp_term_taxonomy
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_termmeta TO wp_termmeta
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_terms TO wp_terms
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_usermeta TO wp_usermeta
+[2024-12-22 11:45:55][notice]RENAME TABLE tmp058f52_users TO wp_users
+[2024-12-22 12:45:55][notice]Replacing table prefix succeeded.
+[2024-12-22 12:45:55][notice]Delete migration option failed.
+[2024-12-22 12:45:55][notice]Deleting temp files.
