@@ -1,0 +1,108 @@
+Log created: 2024-12-22 18:49:32
+Type: backup
+[2024-12-22 18:49:32][notice]Start backing up.
+[2024-12-22 18:49:32][notice]server info fcgi:Off max execution time: 300 wp version:6.7.1 php version:7.4.33 db version:8.0.40 php ini:safe_mode: memory_limit:256M memory_get_usage:25.64 MB memory_get_peak_usage:26.01 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-12-22 18:49:32][notice]Prepare to backup backup_db files.
+[2024-12-22 18:49:32][notice]Start exporting database.
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfls_role_counts
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wffilechanges
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfwaffailures
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfcrawlers
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfknownfilelist
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfblockediplog
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfauditevents
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wflocs
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfls_settings
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfnotifications
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfreversecache
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wftrafficrates
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfsecurityevents
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wpforms_logs
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_gdpr_userlogs
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wpmailsmtp_tasks_meta
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wpforms_tasks_meta
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_gdpr_consent
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wffilemods
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wpmailsmtp_debug_events
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_term_relationships
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_links
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfhoover
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_e_events
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_yoast_migrations
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wflivetraffichuman
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_actionscheduler_groups
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_actionscheduler_claims
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfls_2fa_secrets
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wflogins
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfstatus
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_yoast_primary_term
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_yoast_seo_links
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_prli_link_metas
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_usermeta
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_terms
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_termmeta
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_term_taxonomy
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_commentmeta
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_actionscheduler_logs
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfhits
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_yoast_indexable_hierarchy
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfblocks7
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_users
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wpforms_payment_meta
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_srfm_entries
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfsnipcache
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfpendingissues
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfissues
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_surecart_incoming_webhooks
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_surecart_integrations
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_comments
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wfconfig
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_yoast_indexable
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_actionscheduler_actions
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_wpforms_payments
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_prli_clicks
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_prli_links
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_postmeta
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_posts
+[2024-12-22 18:49:32][notice]Preparing to dump table wp_options
+[2024-12-22 18:49:32][notice]Exporting database finished.
+[2024-12-22 18:49:32][notice]Start compressing database
+[2024-12-22 18:49:32][notice]Prepare to zip file. file: forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_db.sql
+[2024-12-22 18:49:32][notice]Adding zip files completed.forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_db.part001.zip, filesize: 583.16 KB
+[2024-12-22 18:49:32][notice]Compressing database completed
+[2024-12-22 18:49:33][notice]Backing up backup_db completed.
+[2024-12-22 18:49:33][notice]Prepare to backup backup_themes files.
+[2024-12-22 18:49:33][notice]Compressing zip file:forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_themes.part001.zip index:1168
+[2024-12-22 18:49:34][notice]Compressing zip file:forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_themes.part001.zip success. index:1168 file size:18.45 MB
+[2024-12-22 18:49:34][notice]Backing up backup_themes completed.
+[2024-12-22 18:49:34][notice]Prepare to backup backup_plugin files.
+[2024-12-22 18:49:35][notice]Compressing zip file:forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_plugin.part001.zip index:8450
+[2024-12-22 18:49:45][notice]Compressing zip file:forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_plugin.part001.zip success. index:8450 file size:45.67 MB
+[2024-12-22 18:49:46][notice]Backing up backup_plugin completed.
+[2024-12-22 18:49:46][notice]Prepare to backup backup_uploads files.
+[2024-12-22 18:49:46][notice]Compressing zip file:forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_uploads.part001.zip index:147
+[2024-12-22 18:49:46][notice]Compressing zip file:forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_uploads.part001.zip success. index:147 file size:5.95 MB
+[2024-12-22 18:49:46][notice]Backing up backup_uploads completed.
+[2024-12-22 18:49:46][notice]Prepare to backup backup_content files.
+[2024-12-22 18:49:46][notice]Compressing zip file:forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_content.part001.zip index:100
+[2024-12-22 18:49:51][notice]Compressing zip file:forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_content.part001.zip success. index:100 file size:5.54 MB
+[2024-12-22 18:49:51][notice]Backing up backup_content completed.
+[2024-12-22 18:49:51][notice]Prepare to backup backup_core files.
+[2024-12-22 18:49:51][notice]Compressing zip file:forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_core.part001.zip index:2798
+[2024-12-22 18:49:54][notice]Compressing zip file:forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_core.part001.zip success. index:2798 file size:14.35 MB
+[2024-12-22 18:49:54][notice]Backing up backup_core completed.
+[2024-12-22 18:49:54][notice]Prepare to backup backup_merge files.
+[2024-12-22 18:49:54][notice]Prepare to zip file. file: forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_db.zip
+[2024-12-22 18:49:54][notice]Adding zip files completed.forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_all.part001.zip, filesize: 573.26 KB
+[2024-12-22 18:49:54][notice]Prepare to zip file. file: forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_themes.zip
+[2024-12-22 18:49:55][notice]Adding zip files completed.forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_all.part001.zip, filesize: 18.76 MB
+[2024-12-22 18:49:55][notice]Prepare to zip file. file: forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_plugin.zip
+[2024-12-22 18:49:56][notice]Adding zip files completed.forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_all.part001.zip, filesize: 62.31 MB
+[2024-12-22 18:49:57][notice]Prepare to zip file. file: forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_uploads.zip
+[2024-12-22 18:49:57][notice]Adding zip files completed.forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_all.part001.zip, filesize: 68.21 MB
+[2024-12-22 18:49:57][notice]Prepare to zip file. file: forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_content.zip
+[2024-12-22 18:49:57][notice]Adding zip files completed.forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_all.part001.zip, filesize: 73.46 MB
+[2024-12-22 18:49:57][notice]Prepare to zip file. file: forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_core.zip
+[2024-12-22 18:49:58][notice]Adding zip files completed.forthouse-reserve.com_wpvivid-b8bb4e1cb0c52_2024-12-22-18-49_backup_all.part001.zip, filesize: 87.38 MB
+[2024-12-22 18:49:58][notice]Backing up backup_merge completed.
+[2024-12-22 18:49:58][notice]Backup completed.
